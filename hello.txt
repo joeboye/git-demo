@@ -22,3 +22,4 @@ asdhello,git
 asdhello,git
 111111111111111111111111
 test branch_demo!
+test remote pull
